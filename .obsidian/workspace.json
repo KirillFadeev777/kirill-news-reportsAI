@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-06-10.md",
+                "file": "reports/2026-06/2026-06-10-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-10"
+              "title": "2026-06-10-report"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67db92f4aa04e2b2",
+  "active": "30cb26a1ac509e8e",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "reports/2026-06/2026-06-10-report.md",
     "2026-06-10.md",
-    "Без названия.canvas",
     "README.md"
   ]
 }
